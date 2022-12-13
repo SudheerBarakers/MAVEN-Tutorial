@@ -8,4 +8,5 @@ Note: Provide the following information
       1. groupID.
       2. artifactId.
       3. version.
+      4. package.
    
