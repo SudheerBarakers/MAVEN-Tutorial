@@ -1,4 +1,4 @@
-*** Build Life Cycle ***
+## Build Life Cycle
 
 - A build life cycle is a well defined sequence of phases which define the order in which the goals are to be executed. 
 
